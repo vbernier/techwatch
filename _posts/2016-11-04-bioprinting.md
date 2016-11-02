@@ -40,14 +40,10 @@ Organovo, Cyfuse Biomedical, BioBots, Aspect Biosystems, 3D Bioprinting Solution
 
 ## Pour en savoir plus
 
-+ Description des entreprises les plus avancées dans le domaine :
-<http://3dprint.com/88792/3d-bioprinting-companies/>
++ Description des entreprises les plus avancées dans le domaine : <http://3dprint.com/88792/3d-bioprinting-companies/>
 
-+ Description des principes et applications de l’impression 3D : 
-<http://www.explainingthefuture.com/bioprinting.html>
++ Description des principes et applications de l’impression 3D : <http://www.explainingthefuture.com/bioprinting.html>
 
-+ Processus de la bio-impression décrite par l’entreprise Organovo : 
-<http://www.organovo.com/science-technology/bioprinting-process>
++ Processus de la bio-impression décrite par l’entreprise Organovo : <http://www.organovo.com/science-technology/bioprinting-process>
 
-+ Historique et enjeux de la bio-impression 3D (français) : 
-<http://www.sciencesetavenir.fr/sante/20140414.OBS3834/quand-l-imprimante-faconne-le-vivant.html>
++ Historique et enjeux de la bio-impression 3D (français) : <http://www.sciencesetavenir.fr/sante/20140414.OBS3834/quand-l-imprimante-faconne-le-vivant.html>
