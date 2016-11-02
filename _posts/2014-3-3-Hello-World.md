@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Bonjour le monde !
 ---
 
 Creation du site
