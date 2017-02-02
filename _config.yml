@@ -11,6 +11,9 @@ description: Tech monitoring by FCI @centralesupelec
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+# URL of website
+url: https://alexmick.github.io/techwatch/
+
 #
 # Flags below are optional
 #
