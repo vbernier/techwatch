@@ -1,0 +1,54 @@
+---
+layout: post
+title: Building Information Modeling
+---
+
+_Auteur_ : ROLLIN Charles
+
+_Pays / Origine géographique_ : Etats-Unis (Californie), Canada (Vancouver), Russie, Corée du Sud, Chine, France (Bordeaux)
+
+
+_Niveau de maturité_ : R&D – Prototype – Industrialisation – **Commercialisation**
+
+
+#### Dates clés
++ 1987 : première mise en oeuvre du BIM par une société hongroise pour faciliter l'interopérabilité des informations numériques
++ 1995 : des entreprises du bâtiment cherchent à faciliter les échanges entre applications de différents corps de métier. Aboutit à la standardisation du format IFC (Industry Foundation Class).
++ 2017 : le BIM devient obligatoire en France pour les marchés publics
+
+
+_Domaine scientifique concerné_ : Construction, informatique
+
+
+_Secteur d’application_ : BTP, Smart City, sécurité
+
+
+_Option 3A concernée_ : OMA – OPA – **OGI** – **ACD** – OED – **OSI** – MAE 
+
+
+## Description technique
+
+Le Business Information Modeling est une technologie et des processus associés pour produire, communiquer et analyser des modèles de construction. Le BIM se définit à la fois comme :
+
++ un processus d'intégration, de production, de gestion et de visualisation de données ;
++ un modèle unique du bâtiment ou d'un ouvrage bâti (pouvant tenir dans un fichier numérique, lequel comprend toute l'information technique nécessaire à sa construction, son entretien, ses réparations, d'éventuelles modifications ou agrandissements et sa déconstruction). Le fichier comprend aussi une description des relations entre objets et de leurs propriétés (par exemple : jonctions de murs, type d'ouverture ou de traversée d'un mur ou d'une dalle et ruptures de pont thermique) ;
++ un logiciel parce qu’il fonctionne en intégrant une série de logiciels.
+
+Le BIM permet une capitalisation des données associées à un ouvrage. Sa vocation première est de fluidifier le processus de construction mais il permet aussi d'améliorer le Product Lifecycle Management (PLM) :
+
++ visualisation de la maquette 3D d'une centrale nucléaire avant une intervention dangereuse
++ maquette 3D interactive, reliée en temps réel à des capteurs (relevés de pression, température, etc.)
+
+Le BIM, couplé aux technologies de Scanning 3D et Réalité Virtuelle pourrait permettre à un agent, demain, de répéter en simulation totale une opération sur un site dangereux.
+
+## Entreprises impliquées
+
+Toutes les entreprises de BTP & toutes les SS2I spécialisées, Flux (Google)
+
+## Pour en savoir plus
+
++ Description des entreprises les plus avancées dans le domaine : à remplir
+
++ Description des principes et applications de l’impression 3D : à remplir
+
++ Historique et enjeux de la bio-impression 3D (français) : à remplir
