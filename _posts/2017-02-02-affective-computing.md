@@ -35,8 +35,8 @@ La motivation principale derrière cette discipline et la capacité à simuler l
 
 ## Pour en savoir plus
 
-+ Groupe de recherche du MIT : http://affect.media.mit.edu/
++ Groupe de recherche du MIT : <http://affect.media.mit.edu/>
 
-+ 7 things you should know about affective computing : https://library.educause.edu/~/media/files/library/2016/8/eli7135.pdf 
++ 7 things you should know about affective computing : <https://library.educause.edu/~/media/files/library/2016/8/eli7135.pdf> 
 
-+ Computer Interaction : https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing
++ Computer Interaction : <https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing>
